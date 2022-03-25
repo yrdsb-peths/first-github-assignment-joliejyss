@@ -6,9 +6,9 @@ Then answer in the space below each question:
 1. First name
 Jolie
 2. Last name
-Shang
+
 3. Favourite animal
-Bears 
+Dogs and wolfs
 
 Now click the green 'commit changes' button at the bottom.
 
